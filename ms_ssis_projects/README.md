@@ -6,11 +6,11 @@
 https://www.wiseowl.co.uk/integration-services/exercises/standard/data-flow-tasks/4757/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX1_Control_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX1_Control_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX1_Data_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX1_Data_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX1_SQL_TGT_TBL.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX1_SQL_TGT_TBL.png" width="50%" height="50%">
 
 ***
 
@@ -20,11 +20,11 @@ https://www.wiseowl.co.uk/integration-services/exercises/standard/data-flow-task
 https://www.wiseowl.co.uk/integration-services/exercises/standard/data-flow-tasks/4758/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX2_Control_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX2_Control_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX2_Data_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX2_Data_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX2_Output_CSV_file.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX2_Output_CSV_file.png" width="50%" height="50%">
 
 ***
 
@@ -34,13 +34,13 @@ https://www.wiseowl.co.uk/integration-services/exercises/standard/data-flow-task
 https://www.wiseowl.co.uk/integration-services/exercises/standard/data-conversion-transforms/4761/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX3_Control_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX3_Control_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX3_Data_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX3_Data_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX3_Data_Conversion.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX3_Data_Conversion.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX3_SQL_TGT_TBL.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX3_SQL_TGT_TBL.png" width="50%" height="50%">
 
 ***
 
@@ -50,11 +50,11 @@ https://www.wiseowl.co.uk/integration-services/exercises/standard/data-conversio
 https://www.wiseowl.co.uk/integration-services/exercises/standard/data-conversion-transforms/4764/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX4_Control_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX4_Control_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX4_Data_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX4_Data_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX4_SQL_TGT_TBL.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX4_SQL_TGT_TBL.png" width="50%" height="50%">
 
 ***
 
@@ -64,9 +64,9 @@ https://www.wiseowl.co.uk/integration-services/exercises/standard/data-conversio
 https://www.wiseowl.co.uk/integration-services/exercises/standard/conditional-split-transforms/4765/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX5_Control_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX5_Control_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX5_Data_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX5_Data_Flow.png" width="50%" height="50%">
 
 ***
 
@@ -76,13 +76,13 @@ https://www.wiseowl.co.uk/integration-services/exercises/standard/conditional-sp
 https://www.wiseowl.co.uk/integration-services/exercises/standard/conditional-split-transforms/4767/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX6_Control_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX6_Control_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX6_Data_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX6_Data_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX6_BRE.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX6_BRE.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX6_Output_CSV_file.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX6_Output_CSV_file.png" width="50%" height="50%">
 
 ***
 
@@ -92,13 +92,13 @@ https://www.wiseowl.co.uk/integration-services/exercises/standard/conditional-sp
 https://www.wiseowl.co.uk/integration-services/exercises/standard/conditional-split-transforms/4766/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX7_Control_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX7_Control_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX7_Data_Flow.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX7_Data_Flow.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX7_BRE.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX7_BRE.png" width="50%" height="50%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX7_Output_flat_files.png" width="50%" height="50%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX7_Output_flat_files.png" width="50%" height="50%">
 
 ***
 
@@ -108,10 +108,10 @@ https://www.wiseowl.co.uk/integration-services/exercises/standard/conditional-sp
 https://www.wiseowl.co.uk/integration-services/exercises/standard/lookup-transforms/4770/
 
 ### Solution screenshot
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX8_Control_Flow.png" width="50%" height="75%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX8_Control_Flow.png" width="50%" height="75%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX8_Data_Flow.png" width="50%" height="75%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX8_Data_Flow.png" width="50%" height="75%">
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/MS%20SSIS%20Projects/Screenshots/SSIS_EX8_Output_MisMatch_Rows.png" width="50%" height="75%">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/ms_ssis_projects/Screenshots/SSIS_EX8_Output_MisMatch_Rows.png" width="50%" height="75%">
 
 ***
