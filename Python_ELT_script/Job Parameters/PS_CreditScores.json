@@ -1,0 +1,8 @@
+{
+	"PROJECT_PARENT_PATH" : "D:/001_Data/data_projects/data_projects/Python ELT",
+	"FOLDER_NAME" 		  : "raw data",
+	"FILE_NAME" 		  : "Credit Score Classification Dataset.csv",
+	"SQL_SERVER_NAME"	  : "LAPTOP-MCNKFD7O",
+	"SQL_DATABASE_NAME"	  : "PY_ELT_Acquisition_Db",
+	"SQL_TARGET_TABLE"	  : "CreditScore"
+}

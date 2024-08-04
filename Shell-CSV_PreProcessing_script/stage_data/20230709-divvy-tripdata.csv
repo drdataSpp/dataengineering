@@ -1,0 +1,12 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+8CD5DE2C2B6C4CFC,docked_bike,13/06/2020 23:24,13/06/2020 23:36,Wilton Ave & Belmont Ave,117,Damen Ave & Clybourn Ave,163,41.94018,-87.65304,41.931931,-87.677856,casual
+9A191EB2C751D85D,docked_bike,26/06/2020 7:26,26/06/2020 7:31,Federal St & Polk St,41,Daley Center Plaza,81,41.872077,-87.629543,41.884241,-87.629634,member
+F37D14B0B5659BCF,docked_bike,23/06/2020 17:12,23/06/2020 17:21,Daley Center Plaza,81,State St & Harrison St,5,41.884241,-87.629634,41.874053,-87.627716,member
+C41237B506E85FA1,docked_bike,20/06/2020 1:09,20/06/2020 1:28,Broadway & Cornelia Ave,303,Broadway & Berwyn Ave,294,41.945529,-87.646439,41.978353,-87.659753,casual
+4B51B3B0BDA7787C,docked_bike,25/06/2020 16:59,25/06/2020 17:08,Sheffield Ave & Webster Ave,327,Wilton Ave & Belmont Ave,117,41.92154,-87.653818,41.94018,-87.65304,casual
+D50DF288196B53BE,docked_bike,17/06/2020 18:07,17/06/2020 18:18,Sheffield Ave & Webster Ave,327,Wilton Ave & Belmont Ave,117,41.92154,-87.653818,41.94018,-87.65304,casual
+165FA6D223E58600,docked_bike,25/06/2020 7:24,25/06/2020 7:31,Federal St & Polk St,41,Daley Center Plaza,81,41.872077,-87.629543,41.884241,-87.629634,member
+D8236CFC050E591C,docked_bike,19/06/2020 0:00,19/06/2020 0:09,Sheffield Ave & Wellington Ave,115,Broadway & Cornelia Ave,303,41.936266,-87.652662,41.945529,-87.646439,casual
+9D82B9B53C37C55C,docked_bike,30/06/2020 12:11,30/06/2020 12:32,Calumet Ave & 18th St,338,Franklin St & Lake St,164,41.857611,-87.619407,41.885837,-87.6355,member
+3DFF4AB10A6895A3,docked_bike,28/06/2020 14:17,28/06/2020 14:27,Milwaukee Ave & Grand Ave,84,Wells St & Huron St,53,41.891578,-87.648384,41.894722,-87.634362,member
+51E240ED62871C49,docked_bike,29/06/2020 16:59,29/06/2020 17:20,Wood St & Taylor St,317,Michigan Ave & 14th St,168,41.869154,-87.671045,41.864059,-87.623727,casual

@@ -1,0 +1,1 @@
+Load process completed sucessfully. Loaded 164 rows into CreditScore SQL Server table.
