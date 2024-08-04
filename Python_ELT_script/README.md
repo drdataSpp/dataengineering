@@ -63,7 +63,7 @@ To run this script, follow these steps:
 
 ## Logical Flowchart
 
-<img src="https://github.com/drdataSpp/data_projects/blob/master/Python%20ELT/Images/PELT_Logical_Img.png">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/Python_ELT_script/Images/PELT_Logical_Img.png">
 
 ## Usage
 
@@ -77,13 +77,13 @@ The script will perform checks and load the data into the specified SQL Server t
 ## Script execution examples
 
 ### Success Message example
-<img src="https://github.com/drdataSpp/data_projects/blob/master/Python%20ELT/Images/success_message.png">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/Python_ELT_script/Images/success_message.png">
 
 ### SQL Server Target Table
-<img src="https://github.com/drdataSpp/data_projects/blob/master/Python%20ELT/Images/success_sql.png">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/Python_ELT_script/Images/success_sql.png">
 
 ### Failure Message example
-<img src="https://github.com/drdataSpp/data_projects/blob/master/Python%20ELT/Images/error_message.png">
+<img src="https://github.com/drdataSpp/dataengineering/blob/master/Python_ELT_script/Images/error_message.png">
 
 ## Contributing
 
